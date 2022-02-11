@@ -1,0 +1,24 @@
+.home{
+    background-color: #37517e;
+    width:100%;
+    height: 88vh;
+    
+}
+
+.home-text{
+    
+    font-family: neology;
+    color: white;
+}
+.home-text h1{
+    font-weight: bold;
+}
+.home-text p{
+    font-size: 2rem;
+    font-weight:lighter;
+    color: rgb(199, 189, 189);
+}
+.home-img img{
+    width:600px;
+    
+}

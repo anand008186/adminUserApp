@@ -1,0 +1,151 @@
+{
+  "register": [],
+  "users": [
+    {
+      "name": "Anand Ranjan",
+      "city": "BiharSharif",
+      "email": "anand_r@mt.iitr.ac.in",
+      "password": "Anand@123",
+      "cpassword": "Anand@123",
+      "id": "12Ana"
+    },
+    {
+      "name": "Smirti  Sinha",
+      "city": "Delhi",
+      "email": "Smirti123@gmail.com",
+      "password": "Smiriti@123",
+      "cpassword": "Smiriti@123",
+      "id": "13Smi"
+    },
+    {
+      "name": "Ashish Kumar",
+      "city": "Patna",
+      "email": "ashish456@gmail.com",
+      "password": "Ashish@456",
+      "cpassword": "Ashish@456",
+      "id": "12Ash"
+    },
+    {
+      "name": "Vivek Kumar",
+      "city": "Mathura",
+      "email": "vivek@gmail.com",
+      "password": "Vivek@123",
+      "cpassword": "Vivek@123",
+      "id": "11Viv"
+    },
+    {
+      "name": "Divya Kumari",
+      "city": "Biharsharif",
+      "email": "divya345@gmail.com",
+      "password": "Divya@12",
+      "cpassword": "Divya@12",
+      "id": "12Div"
+    },
+    {
+      "name": "Aswini Chauhan",
+      "city": "Agra",
+      "email": "aswini_ut67@gmail.com",
+      "password": "Aswini@123",
+      "cpassword": "Aswini@123",
+      "id": "14Asw"
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "city": "Mumbai",
+      "email": "sachin_678@gmail.com",
+      "password": "Sachin*12",
+      "cpassword": "Sachin*12",
+      "id": "MqNNQqO"
+    },
+    {
+      "name": "Anderson",
+      "city": "Delhi",
+      "email": "anderson@123",
+      "password": "Anderson@123",
+      "cpassword": "Anderson@123",
+      "id": "8And"
+    },
+    {
+      "name": "Aryan Sukla",
+      "city": "Jaipur",
+      "email": "aryan_s12@gmail",
+      "password": "Aryan@123",
+      "cpassword": "Aryan@123",
+      "id": "11Ary"
+    },
+    {
+      "name": "Shivam Yadav",
+      "city": "Jaipur",
+      "email": "shivam123@gmail.com",
+      "password": "Shivam@123",
+      "cpassword": "Shivam@123",
+      "id": "12Shi"
+    },
+    {
+      "name": "Aman Yadav",
+      "city": "Patna",
+      "email": "aman123@gmail.com",
+      "password": "Aman@123",
+      "cpassword": "Aman@123",
+      "id": "10Ama"
+    },
+    {
+      "name": "anand ranjan",
+      "city": "patna",
+      "email": "anandranjan789@gmail.com",
+      "password": "Anand@123",
+      "cpassword": "Anand@123",
+      "id": "12ana"
+    },
+    {
+      "name": "Amisha Kumari",
+      "city": "Biharsharif",
+      "email": "amisha987@gmail.com",
+      "password": "Amisha@123",
+      "cpassword": "Amisha@123",
+      "id": "13Ami"
+    },
+    {
+      "name": "Ananya Choudhary",
+      "city": "Jaipur",
+      "email": "ananya_ch@gmail.com",
+      "password": "Ananya@123",
+      "cpassword": "Ananya@123",
+      "id": "16Ana"
+    },
+    {
+      "name": "Wagisha Gupta",
+      "city": "Delhi",
+      "email": "Wagi_gp123@gmail.com",
+      "password": "Wagisha@123",
+      "cpassword": "Wagisha@123",
+      "id": "13Wag"
+    },
+    {
+      "name": "Agampreet Singh",
+      "city": "Jaipur",
+      "email": "agam_sh@gmail.com",
+      "password": "Agam@123",
+      "cpassword": "Agam@123",
+      "id": "15Aga"
+    },
+    {
+      "name": "Ankit Lakhlan",
+      "city": "Gurugram",
+      "email": "ankit_lkl@gmail.com",
+      "password": "Ankit@123",
+      "cpassword": "Ankit@123",
+      "id": "13Ank"
+    }
+  ],
+  "adminData": [
+    {
+      "name": "Admin",
+      "city": "Delhi",
+      "email": "admin@gmail.com",
+      "password": "Admin",
+      "cpassword": "Admin",
+      "id": "5Adm"
+    }
+  ]
+}

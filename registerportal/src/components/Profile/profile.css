@@ -1,0 +1,11 @@
+.profile{
+    height: 92vh;
+    background-color: #f8f8f8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.profileImg{
+    width: 200px;
+    height:200px;
+    margin:auto;
+    padding: 10px 0px;
+}
